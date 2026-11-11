@@ -6,3 +6,13 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+bytes = "1.12.1"
+env_logger = "0.11.11"
+figment = { version = "0.10.19", features = ["env", "toml"] }
+jaq-all = "0.4.0"
+jiff = { version = "0.2.42", features = ["serde"] }
+log = "0.4.35"
+rumqttc = "0.25.1"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_default = "0.2.0"
+ureq = { version = "3.5.1", features = ["json"] }

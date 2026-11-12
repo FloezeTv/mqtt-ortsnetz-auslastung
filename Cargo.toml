@@ -2,6 +2,7 @@
 name = "mqtt-ortsnetz-auslastung"
 description = "Unofficial MQTT source for ortsnetz-auslastung.de"
 authors = ["FloezeTv"]
+license = "AGPL-3.0"
 version = "0.1.0"
 edition = "2024"
 
